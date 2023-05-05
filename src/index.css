@@ -75,6 +75,7 @@ section {
 
 .--flex-dir-column {
   display: flex;
+  flex-direction: column;
 }
 
 .--align-center {
